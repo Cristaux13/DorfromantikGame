@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Ce projet a été conçu dans le cadre du Semestre 3 du BUT Informatique à l'IUT de Fontainebleau. L'objectif était, en JAVA, de reproduire la logique qui se cache derrière le jeu [Dorformantik](https://store.steampowered.com/app/1455840/Dorfromantik/). Le projet a été réaliser en trio avec l'aide d'Abed Bridja et Wilfried Brigitte.
+Ce projet a été conçu dans le cadre du Semestre 3 du BUT Informatique à l'IUT de Fontainebleau. L'objectif était, en JAVA, de reproduire la logique qui se cache derrière le jeu [Dorfrormantik](https://store.steampowered.com/app/1455840/Dorfromantik/). Le projet a été réaliser en trio avec l'aide d'Abed Bridja et Wilfried Brigitte.
 
 ## Le sujet
 
