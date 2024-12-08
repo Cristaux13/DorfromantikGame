@@ -6,7 +6,7 @@ Ce projet a été conçu dans le cadre du Semestre 3 du BUT Informatique à l'IU
 
 ## Le sujet
 
-`Dans ce jeu inspiré librement de Dorfromantik, le joueur doit assembler des tuiles hexagonales pour former un paysage harmonieux.
+Dans ce jeu inspiré librement de Dorfromantik, le joueur doit assembler des tuiles hexagonales pour former un paysage harmonieux.
 
 Vous produirez un programme écrit en Java, sans emprunt extérieur (sauf l'API officielle), et accompagné d'un rapport. Le travail sera fait en binôme ou trinôme, et devra être terminé avant le dimanche 27 octobre 2024 à 23h59.
 La partie logicielle sera développée dès le départ à l'aide du serveur Gitea du département. Le rapport prendra la forme d'un fichier au format PDF joint aux sources.
@@ -26,7 +26,7 @@ Notez qu'un paysage peut contenir plusieurs poches isolées du même terrain. Un
 Un serveur de base de données sert à retenir les parties disponibles et les scores des joueurs (de façon anonyme).
 Pour que deux scores puissent être comparés, il faut qu'ils correspondent à des parties qui ont utilisé la même série de tuiles.
 Le serveur se souvient donc d'un certain nombre de séries sur lesquelles les joueurs peuvent baser leur partie. Il n'est pas demandé de coder la possibilité d'ajouter une série, mais pour pouvoir tester le programme, plusieurs séries devront être déjà présentes sur le serveur.
-Lorsqu'un joueur débute une partie, il doit choisir parmi les séries disponibles (sans voir leur contenu). À la fin de la partie, le programme utilise les scores connus du serveur pour cette série afin de montrer au joueur la qualité de son score.`
+Lorsqu'un joueur débute une partie, il doit choisir parmi les séries disponibles (sans voir leur contenu). À la fin de la partie, le programme utilise les scores connus du serveur pour cette série afin de montrer au joueur la qualité de son score.
 
 ## Installation
 
